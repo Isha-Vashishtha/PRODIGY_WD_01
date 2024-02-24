@@ -24,7 +24,8 @@ body {
 #navbar a{
     color: #fec84e;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 50px;
+    padding: 0 15px;
 }
 #navbar a:hover{
     background-color:White;
